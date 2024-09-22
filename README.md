@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-8B89CC?style=flat-square&logo=notion&logoColor=white"/>
   
   -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BECCC8&height=200&section=header&text=Hyuntrabass&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BECCC8&height=220&section=header&text=Hyuntrabass&fontSize=80" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=00F758&center=true&width=435&lines=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
   
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C Sharp-5BA37F?style=flat-square&logo=c sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/DirectX-1177AA?style=flat-square&logo=&logoColor=white"/> 
@@ -46,16 +46,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MFC-8D6748?style=flat-square&logo=&logoColor=white"/>
 <br><br>
 
-
-
+### *Top Langueges*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuntrabass)](https://github.com/anuraghazra/github-readme-stats)
 
+### *Git Streak*
 [![GitHub Streak](https://streak-stats.demolab.com?user=hyuntrabass&theme=prussian&border_radius=10&locale=ko)](https://git.io/streak-stats)
 
 ### *Git Status*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuntrabass&show_icons=true&theme=dracula) 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BECCC8&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BECCC8&height=100&section=footer" />
   </div>
 
   
