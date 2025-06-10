@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=00F758&center=true&width=435&lines=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
   
-![img](https://user-images.githubusercontent.com/106663427/236823632-f90d043d-671b-4812-bdf6-236130a26e14.gif)
-
-
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuntrabass&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  
 ### *🖥️Stacks*
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
